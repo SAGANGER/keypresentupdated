@@ -182,7 +182,7 @@ function RoadmapSection() {
       viewport={{ once: true }}
       transition={{ duration: 0.8 }}
       className="roadmap-section" 
-      style={{width:'100%', background: 'linear-gradient(135deg, #1e3a8a 0%, #22c55e 100%)', minHeight: 390, position:'relative'}}
+      style={{width:'100%', background: 'linear-gradient(135deg, #1e3a8a 0%, #db342e 100%)', minHeight: 390, position:'relative'}}
     >
       <div style={{display:'flex', alignItems:'center', justifyContent:'center', maxWidth:1200, margin:'0 auto', gap: '4vw'}}>
         <motion.img 
