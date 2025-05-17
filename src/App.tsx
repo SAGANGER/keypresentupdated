@@ -29,7 +29,7 @@ const ROADMAP_PHASES = [
   {
     title: 'PHASE 1 – THE CREATION OF THE  BLIMPY EMPIRE ',
     list: [
-      'Creation of the giga community',
+      'Creation of the Blimpy community',
       'Creation of the concept',
       'Creation of the team',
       'Creation of the values',
@@ -51,10 +51,10 @@ const ROADMAP_PHASES = [
   {
     title: 'PHASE 3 – PREPARATION FOR LAUNCH',
     list: [
-      'GigaChad marketing strategy',
+      'BlimpyChad marketing strategy',
       'Team preparation',
       'Giveaway organization',
-      'Call for future gigas',
+      'Call for future blimpys',
       'Finalization',
     ],
     image: 'https://i.imgur.com/F0zPHV1.png',
