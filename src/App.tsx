@@ -394,7 +394,7 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
         className="hero-section" 
-        style={{ position: 'relative', textAlign: 'center', minHeight: 600, background: 'linear-gradient(135deg, #1e3a8a 0%, #22c55e 50%, #60a5fa 100%)' }}
+        style={{ position: 'relative', textAlign: 'center', minHeight: 600, background: 'linear-gradient(135deg, #1e3a8a 0%, #db342e 50%, #60a5fa 100%)' }}
       >
         <div className="sunburst" style={{ position: 'absolute', left: 0, top: 0, width: '100%', height: '100%', zIndex: 0, background: 'none' }} />
         <motion.div 
