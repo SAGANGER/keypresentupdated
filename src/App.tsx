@@ -363,7 +363,7 @@ function Footer() {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.6 }}
-      style={{background:'linear-gradient(135deg, #1e3a8a 0%, #22c55e 50%, #60a5fa 100%)', padding:'16px 0 6px 0', color:'#fff', width:'100%'}}
+      style={{background:'linear-gradient(135deg, #1e3a8a 0%, #db342e 50%, #60a5fa 100%)', padding:'16px 0 6px 0', color:'#fff', width:'100%'}}
     >
       <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',maxWidth:1100,margin:'0 auto'}}>
         <img src="https://i.imgur.com/7BLgaTM.png" alt="Gigadood Footer Logo" style={{height:40,marginLeft:8}} />
