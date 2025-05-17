@@ -19,9 +19,9 @@ const socialLinks = [
     alt: 'DexScreener',
   },
   {
-    href: '#',
-    img: 'https://ext.same-assets.com/242481143/1237911405.ico',
-    alt: 'Raydium',
+    href: 'https://soltrex.vercel.app/',
+    img: 'https://i.imgur.com/dtZlUR1.png',
+    alt: 'Flappy Blimpy',
   },
 ];
 
