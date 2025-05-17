@@ -107,10 +107,10 @@ const tokenomicsImages = [
 ];
 
 const memeImages = [
-  'https://ext.same-assets.com/242481143/3498924417.jpeg',
-  'https://ext.same-assets.com/242481143/3294046218.jpeg',
-  'https://ext.same-assets.com/242481143/996538844.jpeg',
-  'https://ext.same-assets.com/242481143/231190511.jpeg',
+  'https://i.imgur.com/Au342L0.png',
+  'https://i.imgur.com/AWEYGJ3.png',
+  'https://i.imgur.com/uBlx1Bi.png',
+  'https://i.imgur.com/lOPIk0Z.png',
   'https://ext.same-assets.com/242481143/326672559.jpeg',
   'https://ext.same-assets.com/242481143/1859618120.jpeg',
   'https://ext.same-assets.com/242481143/2891002134.jpeg',
