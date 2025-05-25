@@ -15,7 +15,7 @@ const socialLinks = [
   },
   {
     href: '#',
-    img: 'https://i.imgur.com/WIh2dQl.png',
+    img: 'https://i.imgur.com/srpFzHW.png',
     alt: 'Launching',
   },
   {
