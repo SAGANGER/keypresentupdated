@@ -57,7 +57,7 @@ const ROADMAP_PHASES = [
       'Call for future blimpys',
       'Finalization',
     ],
-    image: 'https://i.imgur.com/F0zPHV1.png',
+    image: 'https://i.imgur.com/r3oJXgS.png',
   },
   {
     title: 'PHASE 4 – THE LAUNCH: THE BLIMPY TAKEOVER',
@@ -68,7 +68,7 @@ const ROADMAP_PHASES = [
       'Massive KOL influence',
       'Beginning of the Chad reign',
     ],
-    image: 'https://i.imgur.com/r3oJXgS.png',
+    image: 'https://i.imgur.com/Ayd2cdq.png',
   },
   {
     title: 'PHASE 5 – THE ERA OF BLIMPY',
@@ -79,7 +79,7 @@ const ROADMAP_PHASES = [
       'Community events',
       'Complete domination of Solana',
     ],
-    image: 'https://ext.same-assets.com/242481143/173670415.png',
+    image: 'https://i.imgur.com/oNzceV1.png',
   },
 ];
 
