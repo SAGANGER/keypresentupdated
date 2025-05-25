@@ -15,8 +15,8 @@ const socialLinks = [
   },
   {
     href: '#',
-    img: 'https://ext.same-assets.com/242481143/3393283192.png',
-    alt: 'DexScreener',
+    img: 'https://i.imgur.com/WIh2dQl.png',
+    alt: 'Launching',
   },
   {
     href: 'https://soltrex.vercel.app/',
