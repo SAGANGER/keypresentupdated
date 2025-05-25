@@ -20,7 +20,7 @@ const socialLinks = [
   },
   {
     href: 'https://soltrex.vercel.app/',
-    img: 'https://i.imgur.com/bTdd5MX.png',
+    img: 'https://i.imgur.com/o1fBtXZ.png',
     alt: 'Flappy Blimpy',
   },
 ];
