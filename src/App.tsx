@@ -163,7 +163,7 @@ function AboutSection() {
           href="https://t.me/gigadood" 
           target="_blank" 
           rel="noopener noreferrer" 
-          style={{display:'inline-block', background:'#05a100', color:'#fff', padding:'12px 30px', borderRadius:'100px', fontWeight:900, fontSize:'1.1rem', textTransform:'uppercase', fontFamily:'Rubik Bubbles,cursive', letterSpacing: 1, boxShadow: '0 4px 8px rgba(0,0,0,0.3)', transition: 'transform 0.3s, background 0.3s'}}
+          style={{display:'inline-block', background:'#203e91', color:'#fff', padding:'12px 30px', borderRadius:'100px', fontWeight:900, fontSize:'1.1rem', textTransform:'uppercase', fontFamily:'Rubik Bubbles,cursive', letterSpacing: 1, boxShadow: '0 4px 8px rgba(0,0,0,0.3)', transition: 'transform 0.3s, background 0.3s'}}
         >
           Join BLIMPY
         </motion.a>
