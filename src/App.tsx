@@ -147,7 +147,7 @@ function AboutSection() {
         transition={{ duration: 0.8, delay: 0.2 }}
         style={{width: 460, maxWidth: '90vw', marginLeft: 'auto', marginRight: '4vw', padding: 20, background: 'rgba(0,0,0,0.6)', borderRadius: 15, textAlign:'center', boxShadow:'0 2px 8px rgba(0,0,0,0.3)'}}
       >
-        <div style={{fontFamily:'Rubik Bubbles,cursive', fontSize:30, color:'#ffcc00', textShadow: '2px 2px 0 #ff4400', letterSpacing:'1px', marginBottom:10}}>Who's BLIMPY?</div>
+        <div style={{fontFamily:'Rubik Bubbles,cursive', fontSize:30, color:'#1f3f8f', textShadow: '2px 2px 0 #ff4400', letterSpacing:'1px', marginBottom:10}}>Who's BLIMPY?</div>
         <div style={{fontFamily:'Rubik Bubbles,cursive', fontSize:22, color:'#fff', textShadow: '1px 1px 0 #ff4400', letterSpacing:'0.5px', marginBottom:10}}>
           It is said that deep in the abyss of the market, where paper hands weep and devs vanish, a legendary being was born. An alpha? No. A chad? Not powerful enough. He is THE BLIMPY.
         </div>
