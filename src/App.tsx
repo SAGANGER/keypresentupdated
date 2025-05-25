@@ -350,7 +350,7 @@ function ScrollingBanner() {
   return (
     <div className="scrolling-banner">
       <div className="scrolling-text">
-        {Array(8).fill('$BLIMPY    ').join('')}
+        $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY $BLIMPY
       </div>
     </div>
   );
