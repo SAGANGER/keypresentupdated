@@ -201,7 +201,7 @@ function RoadmapSection() {
           transition={{ duration: 0.6, delay: 0.2 }}
           style={{background:'rgba(0,0,0,0.6)', borderRadius:14, padding:20, minWidth:240, minHeight:190, margin:'20px 0', flex:'1'}}
         >
-          <div style={{fontFamily:'Rubik Bubbles',fontSize:20,color:'#ffcc00',marginBottom:10,letterSpacing:1,textShadow:'1px 1px #ff4400'}}>{ROADMAP_PHASES[phase].title}</div>
+          <div style={{fontFamily:'Rubik Bubbles',fontSize:20,color:'#1f3f8f',marginBottom:10,letterSpacing:1,textShadow:'1px 1px #ff4400'}}>{ROADMAP_PHASES[phase].title}</div>
           <ul style={{textAlign:'left',fontFamily:'Rubik Bubbles',fontSize:16,color:'#fff',lineHeight:1.4,textShadow:'1px 1px #ff4400',paddingLeft:18}}>
             {ROADMAP_PHASES[phase].list.map((item,i)=>(
               <motion.li 
