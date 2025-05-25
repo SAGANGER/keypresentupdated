@@ -111,14 +111,14 @@ const memeImages = [
   'https://i.imgur.com/AWEYGJ3.png',
   'https://i.imgur.com/uBlx1Bi.png',
   'https://i.imgur.com/lOPIk0Z.png',
-  'https://ext.same-assets.com/242481143/326672559.jpeg',
-  'https://ext.same-assets.com/242481143/1859618120.jpeg',
-  'https://ext.same-assets.com/242481143/2891002134.jpeg',
-  'https://ext.same-assets.com/242481143/1533712936.jpeg',
-  'https://ext.same-assets.com/242481143/4162956675.jpeg',
-  'https://ext.same-assets.com/242481143/4229533866.jpeg',
-  'https://ext.same-assets.com/242481143/3290966316.jpeg',
-  'https://ext.same-assets.com/242481143/1153716920.jpeg',
+  'https://i.imgur.com/whzgUwd.png',
+  'https://i.imgur.com/tV1C0Mi.png',
+  'https://i.imgur.com/w2zY5bx.png',
+  'https://i.imgur.com/yZBJ1Sa.png',
+  'https://i.imgur.com/8f0LXyQ.png',
+  'https://i.imgur.com/9qgshNh.png',
+  'https://i.imgur.com/tSAQFNg.png',
+  'https://i.imgur.com/HjJWqqs.png',
 ];
 
 function AboutSection() {
