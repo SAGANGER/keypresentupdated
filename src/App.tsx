@@ -35,7 +35,7 @@ const ROADMAP_PHASES = [
       'Creation of the values',
       'Creation of the FOMO – Shh...'
     ],
-    image: 'https://ext.same-assets.com/242481143/3819591912.png',
+    image: 'https://i.imgur.com/v8Wobml.png',
   },
   {
     title: 'PHASE 2 – FORGING THE EMPIRE',
@@ -46,7 +46,7 @@ const ROADMAP_PHASES = [
       'Content creation',
       'Branding development',
     ],
-    image: 'https://i.imgur.com/QLOvMEF.png',
+    image: 'https://i.imgur.com/cO1q9f3.png',
   },
   {
     title: 'PHASE 3 – PREPARATION FOR LAUNCH',
@@ -68,7 +68,7 @@ const ROADMAP_PHASES = [
       'Massive KOL influence',
       'Beginning of the Chad reign',
     ],
-    image: 'https://ext.same-assets.com/242481143/3988920793.png',
+    image: 'https://i.imgur.com/r3oJXgS.png',
   },
   {
     title: 'PHASE 5 – THE ERA OF BLIMPY',
