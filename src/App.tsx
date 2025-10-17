@@ -8,11 +8,7 @@ const socialLinks = [
     img: 'https://ext.same-assets.com/242481143/1632587626.png',
     alt: 'X',
   },
-  {
-    href: 'https://t.me/+DN2H_iYf0jE3ODI0',
-    img: 'https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-white-icon.png',
-    alt: 'Telegram',
-  },
+  
   {
     href: '#',
     img: 'https://i.imgur.com/srpFzHW.png',
