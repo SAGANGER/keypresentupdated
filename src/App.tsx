@@ -11,8 +11,8 @@ const socialLinks = [
   
   {
     href: '#',
-    img: 'https://i.imgur.com/srpFzHW.png',
-    alt: 'Launching',
+    img: 'https://pump.fun/_next/image?url=%2Flogo.png&w=96&q=75',
+    alt: 'CA',
   },
   {
     href: 'https://blimpy.website/',
