@@ -4,13 +4,13 @@ import { motion } from 'framer-motion';
 
 const socialLinks = [
   {
-    href: 'https://x.com/GigaDood__',
+    href: 'https://x.com/Blimpy_official',
     img: 'https://ext.same-assets.com/242481143/1632587626.png',
     alt: 'X',
   },
   {
     href: 'https://t.me/gigadood',
-    img: 'https://ext.same-assets.com/242481143/1619047513.png',
+    img: 'https://t.me/+DN2H_iYf0jE3ODI0',
     alt: 'Telegram',
   },
   {
