@@ -9,8 +9,8 @@ const socialLinks = [
     alt: 'X',
   },
   {
-    href: 'https://t.me/gigadood',
-    img: 'https://t.me/+DN2H_iYf0jE3ODI0',
+    href: 'https://t.me/+DN2H_iYf0jE3ODI0',
+    img: 'https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-white-icon.png',
     alt: 'Telegram',
   },
   {
