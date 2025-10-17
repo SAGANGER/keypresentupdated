@@ -123,6 +123,7 @@ const memeImages = [
 
 function AboutSection() {
   return (
+    <h1>CA : </h1>
     <motion.section 
       initial={{ opacity: 0, y: 50 }}
       whileInView={{ opacity: 1, y: 0 }}
